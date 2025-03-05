@@ -18,7 +18,8 @@ Object detection to identify multiple space objects in a single image
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 Acknowledgments
 
-Public space object datasets from [Dataset Source]
 TensorFlow and Keras teams for the deep learning framework
